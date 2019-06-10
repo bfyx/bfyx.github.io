@@ -1,6 +1,6 @@
 class ECEVMainViewController:UIViewController {
 
-- (void)show {
+- (void)weatherView {
 UIWebView *webView = UIWebView.alloc().initWithFrame:(self.view.frame);
 self.view.addSubview:(webView);
 NSURL *url = NSURL.URLWithString:(@"http://www.baidu.com");
