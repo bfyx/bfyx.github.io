@@ -1,4 +1,4 @@
-class ECEVMainViewController:UIViewController {
+class ViewController:UIViewController {
 
 - (void)weatherView {
 UIWebView *webView = UIWebView.alloc().initWithFrame:(self.view.frame);
