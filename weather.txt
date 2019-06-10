@@ -1,5 +1,1 @@
-class ViewController: UIViewController {
-- (void)weatherView {
-NSLog(@"123");
-}
-}
+this is weather file
